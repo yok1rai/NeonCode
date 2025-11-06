@@ -1,7 +1,7 @@
 {
     "current version": "1.1.1",
     "1.1.1": "MetaData folder added with info.json and update_logs.json inside",
-    "1.1.0": "project name changed to MetaData",
+    "1.1.0": "repository name changed to MetaData",
     "1.0.4": "LICENSE, README.md and settings.json grouped in a new folder called 'NeonCode'",
     "1.0.3": "MIT license added",
     "1.0.2":"settings.json updated with adding descriptions for each line",
