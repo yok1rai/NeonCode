@@ -1,0 +1,10 @@
+{
+    "project": "NeonCode",
+    "desc": "A cyberpunk-inspired Visual Studio Code configuration with neon UI aesthetics and performance tuning.",
+    "owner": "yok1rai",
+    "contributor(s)": ["yok1rai"],
+    "version": 1.1,
+    "license": "MIT",
+    "repository": "https://github.com/yok1rai/NeonCode",
+    "last-updated":"2025-11-6"
+}
