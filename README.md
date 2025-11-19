@@ -151,9 +151,13 @@ Change the font family in these locations:
 
 ## 📁 File Structure
 ```
-.vscode/
+NEONCODE\
 └── settings.json          # Main configuration file
-README.md                  # This documentation
+    LICENSE                # License file
+    README.md              # This documentation
+    Details\               # Extra information
+    └── info.json          # Basic informations in JSON format
+        update_logs.json   # Update log
 ```
 
 ## 🎮 Quick Tips
