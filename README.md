@@ -1,3 +1,8 @@
+![Version](https://img.shields.io/badge/version-1.2.0-ff00ff?style=for-the-badge)
+![License](https://img.shields.io/badge/license-MIT-00ffff?style=for-the-badge)
+![Theme](https://img.shields.io/badge/theme-Cyberpunk%20Neon-b026ff?style=for-the-badge)
+[![Author](https://img.shields.io/badge/author-yok1rai-ff5e00?style=for-the-badge)](https://github.com/yok1rai)
+
 # 🚀 CyberPunk Themed VS Code Setup
 
 A futuristic, neon-drenched Visual Studio Code theme and configuration that transforms your editor into a cyberpunk-inspired development environment.

@@ -1,5 +1,6 @@
 {
-    "current version": "1.1.1",
+    "current version": "1.2.0",
+    "1.2.0": "Folder structure redesigned, badges added to README file",
     "1.1.1": "MetaData folder added with info.json and update_logs.json inside",
     "1.1.0": "repository name changed to MetaData",
     "1.0.4": "LICENSE, README.md and settings.json grouped in a new folder called 'NeonCode'",
